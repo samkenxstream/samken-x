@@ -42,7 +42,7 @@ tqdm==4.62.1
 typer==0.4.1
 wandb==0.12.11
 
-protobuf==3.19.1
+protobuf==3.19.5
 mypy-protobuf==2.10
 
 # temporary fix for https://github.com/aws/aws-sam-cli/issues/3661
