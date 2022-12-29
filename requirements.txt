@@ -10,7 +10,7 @@ ephemeral-port-reserve==1.1.4
 fairseq==0.10.2
 flask==1.1.4
 ipdb==0.13.9
-joblib==1.1.0
+joblib==1.2.0
 jupyter==1.0.0
 matplotlib==3.5.1
 nose-timer==1.0.1
