@@ -8,7 +8,7 @@ datasets==1.18.4
 dacite==1.6.0
 ephemeral-port-reserve==1.1.4
 fairseq==0.10.2
-flask==1.1.4
+flask==2.3.2
 ipdb==0.13.9
 joblib==1.1.0
 jupyter==1.0.0
